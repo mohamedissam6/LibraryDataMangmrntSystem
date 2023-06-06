@@ -1,0 +1,43 @@
+.heading{
+    
+    color: #00B4CC;
+    text-align: center;
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    z-index: 5;
+    
+}
+
+input[type=button] {
+    font-size: larger;
+    width: 50%;
+    background-color: #00B4CC;
+    color: white;
+    padding: 30px 20px;
+    margin: 50px 450px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .form{
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .imgb{
+    background-image: url(./assets/stock-photo-library-interior-design-with-massive-bookshelves-concrete-floor-and-city-view-d-rendering-404153935.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+
+  }
+
+  .back2{
+    background-color: #f1f6f8dc;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+  }
